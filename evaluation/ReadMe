@@ -1,0 +1,8 @@
+1.Evaluation of real datasets.
+       we need an annotation of reference and sam file to be input files, and how many trans and exon covered by sam file results will be output.
+
+	gcc -g -Wall -O0 -o STAT stat_read_trans.c -lz -lm -lpthread
+	all result in sam file will be considered.
+		./STAT a gtffile test.sam
+                only best results of each reads in sam file will be considered.
+		./STAT b gtffile test.sam
