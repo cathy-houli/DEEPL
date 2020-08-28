@@ -58,6 +58,7 @@ Evaluation
 
      The data simulation and benchmarking scripts are available at: https://github.com/hitbc/deSALT.
      The source code of DEEPL are available at: https://github.com/cathy-houli/DEEPL
+     evaluation program for real data are available at: https://github.com/cathy-houli/DEEPL/evaluation
 
 Contact
 ============
